@@ -1,2 +1,5 @@
 # Repositório Teste
- Repositório teste para IE
+ 
+ ##Descrição do repositório
+ 
+ Repositório teste para a matéria de Eng. da Computação
