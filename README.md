@@ -13,4 +13,4 @@
 
  ### Dois cachorritos:
 
- ![Dogs](C:\Users\PICHAU\OneDrive-alunos.utfpr.edu.br\GitHub\pvyamamoto\teste1\dogs.jpg)
+ ![Dog1](https://www.azpetshop.com.br/blog/wp-content/uploads/2020/11/shiba-inu-guia-racas-1024x766.jpg)
